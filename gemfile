@@ -3,3 +3,6 @@ gem 'nokogiri'
 gem 'httparty'
 gem 'csv'
 gem 'selenium-webdriver'
+
+
+gem 'rubocop'
